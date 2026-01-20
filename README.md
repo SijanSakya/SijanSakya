@@ -8,5 +8,5 @@ Frontend Developer specializing in **Next.js, React, and TypeScript**.
 
 ### 🛠 Tech Stack
 Next.js · React · TypeScript · Tailwind CSS · Tanstack start ·
-Supabase · Express js
+Supabase · Express js · Python
 
